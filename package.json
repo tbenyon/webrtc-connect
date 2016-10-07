@@ -46,7 +46,7 @@
     "corsify": "^2.1.0",
     "request": "^2.55.0",
     "simple-peer": "^5.9.0",
-    "wrtc": "0.0.55",
+    "wrtc": ">=0.0.61",
     "xhr": "^2.0.1"
   },
   "devDependencies": {
